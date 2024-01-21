@@ -1,0 +1,7 @@
+C:\Users\viole\OneDrive\Работен плот\12d\Tree\Tree\bin\Debug\Tree.exe.config
+C:\Users\viole\OneDrive\Работен плот\12d\Tree\Tree\bin\Debug\Tree.exe
+C:\Users\viole\OneDrive\Работен плот\12d\Tree\Tree\bin\Debug\Tree.pdb
+C:\Users\viole\OneDrive\Работен плот\12d\Tree\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\12d\Tree\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\12d\Tree\Tree\obj\Debug\Tree.exe
+C:\Users\viole\OneDrive\Работен плот\12d\Tree\Tree\obj\Debug\Tree.pdb
